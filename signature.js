@@ -2,7 +2,7 @@
 import RSA from './lib/rsa'
 import MD5 from './lib/md5'
 import SHA256 from './lib/sha256'
-const util = require ( 'fucking-util' )
+import util from 'fucking-util'
 
 export default class Signature {
 

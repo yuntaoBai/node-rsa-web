@@ -1,5 +1,5 @@
 import Signature from './signature'
-const util = require ('fucking-util')
+import util from 'fucking-util'
 
 util.use ( 'Signature', Signature );
 
